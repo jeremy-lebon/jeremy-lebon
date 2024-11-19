@@ -1,4 +1,4 @@
-![Texte alternatif](./chemin/access/image.jpg "Titre de l'image")<h1 align="center">
+![Texte alternatif](./github-header-image.png "Titre de l'image")<h1 align="center">
 Hi 👋, I'm Lebon Jérémy</h1>
 
 <h3 align="center">A student in IT passionate about it.</h3>
