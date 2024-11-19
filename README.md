@@ -1,6 +1,7 @@
-<blockquote class="imgur-embed-pub" lang="en" data-id="uRQT8IN"><a href="https://imgur.com/uRQT8IN">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 <h1 align="center">Hi 👋, I'm Lebon Jérémy</h1>
+
 <h3 align="center">A student in IT passionate about it.</h3>
+<p align="left"> <img src="https://imgur.com/uRQT8IN" alt="jeremy-lebon" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeremy-lebon&label=Profile%20views&color=0e75b6&style=flat" alt="jeremy-lebon" /> </p>
 
