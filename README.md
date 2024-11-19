@@ -1,4 +1,4 @@
-<p><img src="https://imgur.com/a/3CtsIj2"/></p>
+<h1 align="center"><img src="https://imgur.com/a/3CtsIj2"/>/h1>
 <h1 align="center">Hi 👋, I'm Lebon Jérémy</h1>
 <h3 align="center">A student in IT passionate about it.</h3>
 
