@@ -1,36 +1,66 @@
 ![Texte alternatif](./github-header-image.png "Titre de l'image")<h1 align="center">
-Hi 👋, I'm Lebon Jérémy</h1>
+# 👨‍💻 Jérémy LEBON
 
-<h3 align="center">A student in IT passionate about it.</h3>
+## Administrateur Systèmes & Réseaux | Étudiant en Cybersécurité
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeremy-lebon&label=Profile%20views&color=0e75b6&style=flat" alt="jeremy-lebon" /> </p>
+🎯 Passionné par les technologies systèmes et réseaux, je suis actuellement en Bachelor IT Cybersécurité. Après plusieurs années dans l'industrie, je me reconvertis avec enthousiasme dans l'administration réseau sur Linux et Windows, avec pour objectif d’atteindre un niveau professionnel et certifiable.
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+---
 
-- 🔭 I’m currently working on **nothing**
+## 💼 Compétences Techniques
 
-- 🌱 I’m currently learning **Python, Linux and HTML/CSS**
+- **Systèmes** : Windows Server, Linux (Debian, Ubuntu)
+- **Réseaux** : TCP/IP, DNS, DHCP, VLAN, VPN, Routage, Firewall
+- **Services** : FTP, SSH, Proxy, NFS, CIFS, Samba
+- **Virtualisation** : VMware, Hyper-V, VirtualBox
+- **Scripts** : Bash, PowerShell
+- **Annuaire** : Active Directory, LDAP
+- **Outils** : TrueNAS, Asterisk, Cisco Packet Tracer
 
-- 👯 I’m looking to collaborate on **interresting project**
+---
 
-- 🤝 I’m looking for help with **interresting project**
+## 🛠️ Projets réalisés
 
-- 👨‍💻 All of my projects are available at [https://github.com/jeremy-lebon/jeremy-lebon](https://github.com/jeremy-lebon/jeremy-lebon)
+- 🔐 Mise en place d’un serveur **TrueNAS** sécurisé (SFTP, WebDAV, RAID)
+- 📞 Déploiement d’un serveur VoIP avec **Asterisk**
+- 🧾 Administration d’un annuaire **LDAP**
+- 🧑‍💻 Configuration complète d’une infrastructure réseau sous **Debian** (DHCP, DNS, FTP, SSH)
+- 🧪 Simulations réseau avec **Cisco Packet Tracer**
+- 🖥️ Création et gestion d’un **Active Directory** sous Windows Server 2025
 
-- 💬 Ask me about **la plateforme**
+---
 
-- 📄 Know about my experiences [in La Plateforme](in La Plateforme)
+## 🎓 Formation
 
-- ⚡ Fun fact **I'm old**
+- **2024 – En cours** : Bachelor IT Cybersécurité – La Plateforme
+- **2012** : Bac Pro Technicien Chaudronnerie Industrielle – Lycée Jean Dupuy
+- **2009** : CAP Construction Ensembles Chaudronnés – Lycée Philippe Tissié
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/lebon-jérémy-81a498220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lebon jérémy" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🧑‍🏭 Parcours Professionnel
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeremy-lebon&show_icons=true&locale=en&layout=compact" alt="jeremy-lebon" /></p>
+- **2017 – 2021** : Opérateur Polyvalent – Aubert & Duval
+- **2013 – 2017** : Technicien en maintenance & intérim – Aubert & Duval / Recaero
+- **2011 – 2013** : Débiteur – Aubert & Duval
 
+---
+
+## 🧩 Autres informations
+
+- **Langues** : Français (natif), Anglais (intermédiaire)
+- **Permis** : B
+- **Centres d’intérêt** : Jeux vidéo, Randonnée, Puzzle
+- **Qualités** : Travail en équipe, Sens des responsabilités, Résolution de problèmes, Esprit de synthèse
+
+---
+
+## 📫 Me contacter
+
+📧 lebonjeremy09@gmail.com  
+📍 France
+
+---
+
+Merci de visiter mon profil GitHub ! N'hésitez pas à explorer mes dépôts pour découvrir mes projets techniques liés aux systèmes, aux réseaux et à la cybersécurité.
 
