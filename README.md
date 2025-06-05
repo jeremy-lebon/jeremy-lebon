@@ -15,7 +15,7 @@
 - **Virtualisation** : VMware, Hyper-V, VirtualBox
 - **Scripts** : Bash, PowerShell
 - **Annuaire** : Active Directory, LDAP
-- **Outils** : TrueNAS, Asterisk, Cisco Packet Tracer
+- **Outils** : TrueNAS, Asterisk, Cisco Packet Tracer, WireShark
 
 ---
 
