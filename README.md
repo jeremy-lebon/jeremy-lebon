@@ -40,7 +40,7 @@
 
 ## 🧑‍🏭 Parcours Professionnel
 
-- **2017 – 2021** : Opérateur Polyvalent – Aubert & Duval
+- **2017 – 2022** : Opérateur Polyvalent – Aubert & Duval
 - **2013 – 2017** : Technicien en maintenance & intérim – Aubert & Duval / Recaero
 - **2011 – 2013** : Débiteur – Aubert & Duval
 
